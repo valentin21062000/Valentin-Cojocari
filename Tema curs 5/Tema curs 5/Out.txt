@@ -1,0 +1,7 @@
+Pret total= 162.596323961571 lei.
+Orasul 1 : 30 lei, 53lei. 
+Orasul 2 : 25 lei, 49lei. 
+Orasul 5 : 19 lei, 63lei. 
+Orasul 3 : 56 lei, 80lei. 
+Orasul 6 : 43 lei, 15lei. 
+Orasul 4 : 10 lei, 23lei. 

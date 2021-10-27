@@ -1,0 +1,7 @@
+C:\Users\valen\source\repos\Tema curs 5\Tema curs 5\bin\Debug\Tema curs 5.exe.config
+C:\Users\valen\source\repos\Tema curs 5\Tema curs 5\bin\Debug\Tema curs 5.exe
+C:\Users\valen\source\repos\Tema curs 5\Tema curs 5\bin\Debug\Tema curs 5.pdb
+C:\Users\valen\source\repos\Tema curs 5\Tema curs 5\obj\Debug\Tema curs 5.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\Tema curs 5\Tema curs 5\obj\Debug\Tema curs 5.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\Tema curs 5\Tema curs 5\obj\Debug\Tema curs 5.exe
+C:\Users\valen\source\repos\Tema curs 5\Tema curs 5\obj\Debug\Tema curs 5.pdb
