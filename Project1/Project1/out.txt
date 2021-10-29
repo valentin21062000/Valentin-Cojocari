@@ -1,0 +1,12 @@
+6
+2 2
+4 2
+1 2
+3 2
+6 1
+8 3
+
+Spectacolul 1 incepe la ora: 1    Se termina la ora: 3
+Spectacolul 2 incepe la ora: 3    Se termina la ora: 5
+Spectacolul 3 incepe la ora: 6    Se termina la ora: 7
+Spectacolul 4 incepe la ora: 8    Se termina la ora: 11

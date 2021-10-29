@@ -1,0 +1,14 @@
+﻿'Project1.exe' (Win32): Loaded 'C:\Users\valen\source\repos\Project1\Debug\Project1.exe'. Symbols loaded.
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x64d0 has exited with code 0 (0x0).
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Project1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x3e70 has exited with code 0 (0x0).
+The thread 0x2950 has exited with code 0 (0x0).
+The program '[8852] Project1.exe' has exited with code 0 (0x0).
